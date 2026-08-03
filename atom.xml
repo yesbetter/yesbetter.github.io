@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>yesbetter</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://yesbetter.github.io/</id>
+  <link href="https://yesbetter.github.io/" rel="alternate"/>
+  <link href="https://yesbetter.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, yesbetter</rights>
+  <title>生活美好</title>
+  <updated>2026-01-26T05:56:36.909Z</updated>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <id>https://yesbetter.github.io/2026/01/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</id>
+    <link href="https://yesbetter.github.io/2026/01/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
+    <published>2026-01-24T16:16:24.000Z</published>
+    <title>第一篇博文</title>
+    <updated>2026-01-26T05:56:36.909Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <id>https://yesbetter.github.io/2026/01/24/hello-world/</id>
+    <link href="https://yesbetter.github.io/2026/01/24/hello-world/"/>
+    <published>2026-01-24T14:34:50.343Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-01-24T14:34:50.344Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <category term="学习" scheme="https://yesbetter.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="你好" scheme="https://yesbetter.github.io/tags/%E4%BD%A0%E5%A5%BD/"/>
+    <id>https://yesbetter.github.io/2025/07/29/%E5%88%9D%E5%85%A5%E8%8C%85%E5%BA%90/</id>
+    <link href="https://yesbetter.github.io/2025/07/29/%E5%88%9D%E5%85%A5%E8%8C%85%E5%BA%90/"/>
+    <published>2025-07-29T03:19:35.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="文章写作介绍"><a href="#文章写作介绍" class="headerlink" title="文章写作介绍"></a>文章写作介绍</h3><p>Front-matter 是平时写文章时使用的 markdown]]>
+    </summary>
+    <title>初入茅庐-第一篇博文</title>
+    <updated>2026-08-03T02:00:00.000Z</updated>
+  </entry>
+</feed>
