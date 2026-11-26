@@ -9,7 +9,24 @@
   <link href="https://yesbetter.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, yesbetter</rights>
   <title>生活美好</title>
-  <updated>2026-11-26T15:51:50.704Z</updated>
+  <updated>2026-11-26T16:24:16.537Z</updated>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <category term="随笔" scheme="https://yesbetter.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="记录" scheme="https://yesbetter.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    <category term="随笔" scheme="https://yesbetter.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://yesbetter.github.io/2026/11/27/%E6%B7%B1%E5%A4%9C%E6%8A%8A%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80/</id>
+    <link href="https://yesbetter.github.io/2026/11/27/%E6%B7%B1%E5%A4%9C%E6%8A%8A%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80/"/>
+    <published>2026-11-26T16:26:00.000Z</published>
+    <summary>
+      <![CDATA[<p>今晚折腾到很晚，把两个放了快一年的博客重新打开了。</p>
+<p>其实没什么大事。就是把源码找出来，重新生成、部署，修了几张裂掉的图片，换了封面，调了两个手机上看不清字的小毛病。都是些零零碎碎的活，但做完之后看着页面重新亮起来，心里挺]]>
+    </summary>
+    <title>深夜，把博客重新打开</title>
+    <updated>2026-11-26T16:24:16.537Z</updated>
+  </entry>
   <entry>
     <author>
       <name>yesbetter</name>
