@@ -9,7 +9,40 @@
   <link href="https://yesbetter.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, yesbetter</rights>
   <title>生活美好</title>
-  <updated>2026-01-26T05:56:36.909Z</updated>
+  <updated>2026-11-26T12:51:23.353Z</updated>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <category term="学习" scheme="https://yesbetter.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="博客" scheme="https://yesbetter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="记录" scheme="https://yesbetter.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    <id>https://yesbetter.github.io/2026/11/26/%E5%8D%9A%E5%AE%A2%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0/</id>
+    <link href="https://yesbetter.github.io/2026/11/26/%E5%8D%9A%E5%AE%A2%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0/"/>
+    <published>2026-11-26T12:50:00.000Z</published>
+    <summary>
+      <![CDATA[<p>好久没更新了。</p>
+<p>今天把博客的源码重新整理了一遍，生成和部署都跑通了，顺手把之前写好但没发出来的《实用工具资源合集》也一并上线。</p>
+<p>这个博客最初是用来练手的，写过 Front-matter]]>
+    </summary>
+    <title>博客恢复更新</title>
+    <updated>2026-11-26T12:51:23.353Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <category term="实用工具" scheme="https://yesbetter.github.io/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    <category term="初入茅庐" scheme="https://yesbetter.github.io/tags/%E5%88%9D%E5%85%A5%E8%8C%85%E5%BA%90/"/>
+    <id>https://yesbetter.github.io/2026/09/19/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/</id>
+    <link href="https://yesbetter.github.io/2026/09/19/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/"/>
+    <published>2026-09-19T10:13:24.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="一、图片压缩"><a href="#一、图片压缩" class="headerlink" title="一、图片压缩"></a>一、图片压缩</h2><p><strong>Caesium Image]]>
+    </summary>
+    <title>实用工具资源合集</title>
+    <updated>2026-11-26T11:19:27.288Z</updated>
+  </entry>
   <entry>
     <author>
       <name>yesbetter</name>
@@ -18,7 +51,7 @@
     <link href="https://yesbetter.github.io/2026/01/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
     <published>2026-01-24T16:16:24.000Z</published>
     <title>第一篇博文</title>
-    <updated>2026-01-26T05:56:36.909Z</updated>
+    <updated>2026-11-26T11:19:27.288Z</updated>
   </entry>
   <entry>
     <author>
@@ -26,12 +59,12 @@
     </author>
     <id>https://yesbetter.github.io/2026/01/24/hello-world/</id>
     <link href="https://yesbetter.github.io/2026/01/24/hello-world/"/>
-    <published>2026-01-24T14:34:50.343Z</published>
+    <published>2026-01-24T14:34:50.000Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-01-24T14:34:50.344Z</updated>
+    <updated>2026-11-26T12:51:23.577Z</updated>
   </entry>
   <entry>
     <author>
