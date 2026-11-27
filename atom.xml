@@ -9,14 +9,31 @@
   <link href="https://yesbetter.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, yesbetter</rights>
   <title>生活美好</title>
-  <updated>2026-11-26T16:24:16.537Z</updated>
+  <updated>2026-11-27T08:35:48.671Z</updated>
   <entry>
     <author>
       <name>yesbetter</name>
     </author>
     <category term="随笔" scheme="https://yesbetter.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    <category term="记录" scheme="https://yesbetter.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
     <category term="随笔" scheme="https://yesbetter.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="记录" scheme="https://yesbetter.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    <id>https://yesbetter.github.io/2026/11/27/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9/</id>
+    <link href="https://yesbetter.github.io/2026/11/27/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9/"/>
+    <published>2026-11-27T08:38:00.000Z</published>
+    <summary>
+      <![CDATA[<p>昨晚把博客重新打开，折腾到半夜。今天是开张第二天，白天没什么特别的事，就是正常地过。</p>
+<p>想了想，博客这东西最难的不是写，是别让它再空一年。写什么其实没那么重要：折腾的东西、看到的文章、哪天的心情，都可以。写下来，过段时间回]]>
+    </summary>
+    <title>博客开张第二天</title>
+    <updated>2026-11-27T08:35:48.671Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>yesbetter</name>
+    </author>
+    <category term="随笔" scheme="https://yesbetter.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://yesbetter.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="记录" scheme="https://yesbetter.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
     <id>https://yesbetter.github.io/2026/11/27/%E6%B7%B1%E5%A4%9C%E6%8A%8A%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80/</id>
     <link href="https://yesbetter.github.io/2026/11/27/%E6%B7%B1%E5%A4%9C%E6%8A%8A%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80/"/>
     <published>2026-11-26T16:26:00.000Z</published>
@@ -32,8 +49,8 @@
       <name>yesbetter</name>
     </author>
     <category term="学习" scheme="https://yesbetter.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    <category term="博客" scheme="https://yesbetter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     <category term="记录" scheme="https://yesbetter.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    <category term="博客" scheme="https://yesbetter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     <id>https://yesbetter.github.io/2026/11/26/%E5%8D%9A%E5%AE%A2%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0/</id>
     <link href="https://yesbetter.github.io/2026/11/26/%E5%8D%9A%E5%AE%A2%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0/"/>
     <published>2026-11-26T12:50:00.000Z</published>
